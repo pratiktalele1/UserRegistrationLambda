@@ -28,5 +28,8 @@ public class main {
 		//creating uc9 object
 		UC9 uc9=new UC9();
 		uc9.password("A0*aaaaaa");
+		//creating uc13 object
+		UC13 uc13=new UC13();
+		uc13.checkDetailsUsingLambda();
 	}
 }
